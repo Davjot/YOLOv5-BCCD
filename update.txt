@@ -4,4 +4,4 @@ upload test folder in dataset
 
 upload valid folder in dataset 
 
-updatee readme file 
+update readme file : mention all the steps like data augmentation, roboflow, paste graphs etc.
